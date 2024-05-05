@@ -1,2 +1,2 @@
 FROM centos:8
-LABEL AUTHOR ="pavan"
+LABEL AUTHOR="pavan"
